@@ -4,6 +4,8 @@
 
 This repository contains our best performing model, which was trained on four tasks: [patch relative position](http://graphics.cs.cmu.edu/projects/deepContext/), [colorization](http://richzhang.github.io/colorization/), [exemplar training](https://arxiv.org/abs/1406.6909), and [motion segmentation](https://arxiv.org/abs/1612.06370) (RP+Col+Ex+MS in the paper).
 
+This is research, not an official Google product.
+
 The checkpoint is available [here](TODO).
 
 # Loading the model
