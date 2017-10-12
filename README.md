@@ -6,7 +6,7 @@ This repository contains our best performing model, which was trained on four ta
 
 This is research, not an official Google product.
 
-The checkpoint is available [here](TODO).
+The checkpoint is available [here](https://storage.googleapis.com/visual-learning-checkpoint/model_release.tar.gz).
 
 # Loading the model
 This model is based on Resnet-v2-101 available in [tf-slim](https://github.com/tensorflow/models/blob/master/slim/nets/resnet_v2.py).  To load it, first create a Resnet-v2-101 in slim:
